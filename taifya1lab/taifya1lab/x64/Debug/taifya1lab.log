@@ -1,0 +1,3 @@
+﻿  taifya1lab.cpp
+C:\Users\danii\source\repos\taifya1lab\taifya1lab\taifya1lab.cpp(36,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  taifya1lab.vcxproj -> C:\Users\danii\source\repos\taifya1lab\taifya1lab\x64\Debug\taifya1lab.exe
